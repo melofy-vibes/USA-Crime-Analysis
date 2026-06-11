@@ -117,3 +117,11 @@ across U.S. states from **2013 to 2022**.
 
 ```bash
 pip install -r requirements.txt
+```
+---
+
+## 👤 Author
+
+Mehraveh Goharshadi
+
+Data Analyst & Machine Learning Enthusiast
