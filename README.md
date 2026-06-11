@@ -73,6 +73,7 @@ across U.S. states from **2013 to 2022**.
 
 ### 📊 Crime Trends
 ![National Average Trends](images/National_Average_Trends.png)
+
 ![Unemployment Rate vs. Violent Crime Rate](images/Unemployment_vs._Violent_Crime.png)
 
 ### 💸Race vs Poverty
