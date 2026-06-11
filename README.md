@@ -113,7 +113,21 @@ across U.S. states from **2013 to 2022**.
 
 ---
 
-## ⚙️ Installation
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone git@github.com:melofy-vibes/USA-Crime-Analysis.git
+```
+
+Move into the project directory:
+
+```bash
+cd USA-Crime-Analysis
+```
+
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
