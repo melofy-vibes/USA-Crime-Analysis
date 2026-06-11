@@ -133,6 +133,16 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 ---
+## 🎯 Future Improvements
+
+- 🤖 Develop machine learning models to predict violent and property crime rates based on socioeconomic indicators.
+- 📈 Apply time-series forecasting techniques to analyze future crime trends.
+- 🗺 Create interactive dashboards using Plotly or Tableau for state-by-state exploration.
+- 📅 Extend the analysis with newer datasets as they become available.
+- 🔍 Investigate causal relationships using more advanced statistical and econometric methods.
+- 🧩 Cluster states based on socioeconomic characteristics and crime patterns to identify similar profiles.
+- 📊 Build an interactive web application that allows users to explore trends and correlations dynamically.
+---
 
 ## 👤 Author
 
